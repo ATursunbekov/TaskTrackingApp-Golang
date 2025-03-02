@@ -1,4 +1,4 @@
-TaskTrackingApp-Golang
+# TaskTrackingApp-Golang
 
 **TaskTrackingApp-Golang** is a task management system built with Go (Golang), designed to help users efficiently track and manage their tasks. This application provides functionalities such as user authentication, task creation, updating, deletion, and retrieval.
 
